@@ -70,12 +70,13 @@ content:
           
         description: | # this will include new lines to allow paragraphs
               I aim to propose a novel RSV nomenclature system which provides a convenient and sustainable way to refer to the emergence of RSV strains.We also provided an RSV classification tool to perform RSV genotype assignment.
-     - layout: top-middle
+
+      - layout: top-middle
         title: customized IRMA module for RSV genome assembly
         link: github.com/JianiC/IRMA-RSV
         # link_text: Project Website
         additional_links:
-          - title:  JianiC/IRMA-RSV
+          - title: JianiC/IRMA-RSV
             icon: fab fa-github
             url: github.com/JianiC/IRMA-RSV
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -84,8 +85,9 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-             A coustomized genome assembly read modules allowing the reads with different coverage across regions
-     - layout: top-middle
+              A coustomized genome assembly read modules allowing the reads with different coverage across regions
+              
+      - layout: top-middle
         title: RSV T-cell epiope analysis 
         link: github.com/JianiC/RSV_Epitope
         # link_text: Project Website
@@ -100,6 +102,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
              I am working on computational RSV vaccine development via predicting T cell epitopes.            
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -125,7 +128,12 @@ content:
           
         description: | # this will include new lines to allow paragraphs
             This is the first time when I think about science
-            
+
+
+
+
+
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -136,28 +144,30 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
             I am studing infectious dynamic in Dr. Justin Bahl lab, we are using immunoinformatic, phylodynamic, mathamatic modeling as well as other bioinformatics approaches.
-            
- - layout: left
+
+      - layout: left
         title: University of Kansas
         caption: 2016-2018
         sub_title: Master in Pharmacology and Toxicologyc
         quote: >
         description: | # this will include new lines to allow paragraphs
-
- - layout: left
+        
+      - layout: left
         title: Guilin Medical University
         caption: 2011-2016
         sub_title: MBS in Clinical Laboratory Scinece
         quote: >
-        description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs        
+        
+
 
 #  - title: A Little More About Me
 #    layout: text
 #    content: | # this will include new lines to allow paragraphs
-##      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
 #      - Rock climbing
- #     - Gaming
- #     - Knitting
+#      - Gaming
+#      - Knitting
  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 #      Look at this cool image  
