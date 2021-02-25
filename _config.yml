@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Jiani Chen
+title: Graduate research assistent
+email: jiani.chen@uga.edu
+website: https://jianic.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: JianiCh
+github_username:  JianiC
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: Jiani Chen
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+ # url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,69 +48,120 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, I am current a PhD bioinformatic student at the university of Georgia, I am studying the infectious dynamic caused by respiratory virus using <mark>phylodynamics</mark> approach.
+  I am most skilled in: <mark>Bayesian phylogenetic analysis </mark> and <mark>virus genome assembly</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: A novel and extenable nomenclature system of RSV
+        link: nextstrain.org/community/JianiC/rsv-genotype/
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: JianiC/rsv-genotype
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/JianiC/rsv-genotype
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+              I aim to propose a novel RSV nomenclature system which provides a convenient and sustainable way to refer to the emergence of RSV strains.We also provided an RSV classification tool to perform RSV genotype assignment.
+     - layout: top-middle
+        title: customized IRMA module for RSV genome assembly
+        link: github.com/JianiC/IRMA-RSV
+        # link_text: Project Website
+        additional_links:
+          - title:  JianiC/IRMA-RSV
+            icon: fab fa-github
+            url: github.com/JianiC/IRMA-RSV
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+             A coustomized genome assembly read modules allowing the reads with different coverage across regions
+     - layout: top-middle
+        title: RSV T-cell epiope analysis 
+        link: github.com/JianiC/RSV_Epitope
+        # link_text: Project Website
+        additional_links:
+          - title:  JianiC/JianiC/RSV_Epitope
+            icon: fab fa-github
+            url: github.com/JianiC/RSV_Epitope
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+             I am working on computational RSV vaccine development via predicting T cell epitopes.            
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Tangshan Kailuan Hospital
+        #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Internship
+        caption: 2015.6-2016.3
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            I worked in a hostiptal for 1 years when I was in the medical school in China
 
+      - layout: left
+        title: China College Students Innovation & Entrepreneurship Plan  
+        #link: boringcompany.com
+        # link_text: boringcompany.com
+        #sub_title: Internship
+        caption: 2014-2015
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            This is the first time when I think about science
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: University of Georgia
+        caption: 2018-present
+        sub_title: PhD Bioinformatic
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+            I am studing infectious dynamic in Dr. Justin Bahl lab, we are using immunoinformatic, phylodynamic, mathamatic modeling as well as other bioinformatics approaches.
+            
+ - layout: left
+        title: University of Kansas
+        caption: 2016-2018
+        sub_title: Master in Pharmacology and Toxicologyc
+        quote: >
+        description: | # this will include new lines to allow paragraphs
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+ - layout: left
+        title: Guilin Medical University
+        caption: 2011-2016
+        sub_title: MBS in Clinical Laboratory Scinece
+        quote: >
+        description: | # this will include new lines to allow paragraphs
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+##      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#      - Rock climbing
+ #     - Gaming
+ #     - Knitting
+ #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#      Look at this cool image  
+#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
