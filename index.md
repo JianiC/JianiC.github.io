@@ -1,30 +1,31 @@
 
 # Project Experience
 ---
-## Immunoinformatics
+## Ph.D thesis projects 
 
 ### Implications of potential T-cell epitopes in human respiratory virus major surface proteins for vaccine design 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JianiC/RSV_Epitope)
 
-**T-cell epitope prediction for vaccine design:** we utilized immunoinformatic approaches to predict T-cell epitopes in RSV major surface proteins across different strains.
+**RSV T-cell epitope prediction for vaccine design:** We utilized immunoinformatic toolkits to predict T-cell epitopes in RSV major surface proteins across different strains.
+
 <img width="400" alt="T_epitope_prediction" src="https://user-images.githubusercontent.com/47227610/126841917-78f5d506-a815-4d26-ac6c-a74f334129c5.png">
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+**T-cell epitope diversity visulization and comparasion:** T-cell epitope profile clustering based on MDS approach. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
 <center><img src="images/nlp.png"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Modeling the interaction of RSV and influenza cocirculation
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">This is a infectious disease modeling study incoperate Markov process, we further test whether the inhibition of co-infection happens during the infectious process ( inhibit the pathogen to enter to the cell) or caused by cross-protective immunity.</div>
 
 <center><img src="images/BERT-classification.png"/></center>
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+### A novel nomenclature system for RSV genotyping
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
@@ -35,7 +36,40 @@
 <br>
 
 ---
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
+## Other projects I am contributing
+
+### Detect Spam Messages: NLP and Naive Bayes Classifier
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
+
+<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
+<br>
+<center><img src="images/detect-spam-nlp.png"/></center>
+<br>
+
+### Origin of SARS-CoV19: phylogentic and contact network analysis
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
+
+<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
+<br>
+<center><img src="images/detect-spam-nlp.png"/></center>
+<br>
+
+---
+### APP: Perdict the geo-location information of SARS-CoV2 using genetic information : NLP and Naive Bayes Classifier
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
+
+<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
+<br>
+<center><img src="images/detect-spam-nlp.png"/></center>
+<br>
+
+### Genetic diversity and : NLP and Naive Bayes Classifier
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
