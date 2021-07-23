@@ -8,12 +8,12 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JianiC/RSV_Epitope)
 
 **RSV T-cell epitope prediction for vaccine design:** We utilized immunoinformatic toolkits to predict T-cell epitopes in RSV major surface proteins across different strains.
+<center><img width="400" alt="T_epitope_prediction" src="https://user-images.githubusercontent.com/47227610/126841917-78f5d506-a815-4d26-ac6c-a74f334129c5.png"></center>
 
-<img width="400" alt="T_epitope_prediction" src="https://user-images.githubusercontent.com/47227610/126841917-78f5d506-a815-4d26-ac6c-a74f334129c5.png">
 
 **T-cell epitope diversity visulization and comparasion:** T-cell epitope profile clustering based on MDS approach. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
-<center><img src="images/nlp.png"/></center>
+
 
 ---
 ### Modeling the interaction of RSV and influenza cocirculation
