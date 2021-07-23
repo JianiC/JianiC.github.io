@@ -8,7 +8,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JianiC/RSV_Epitope)
 
 **T-cell epitope prediction for vaccine design:** we utilized immunoinformatic approaches to predict T-cell epitopes in RSV major surface proteins across different strains.
-<img width="886" alt="T_epitope_prediction" src="https://user-images.githubusercontent.com/47227610/126841917-78f5d506-a815-4d26-ac6c-a74f334129c5.png">
+<img width="400" alt="T_epitope_prediction" src="https://user-images.githubusercontent.com/47227610/126841917-78f5d506-a815-4d26-ac6c-a74f334129c5.png">
 
 **Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
