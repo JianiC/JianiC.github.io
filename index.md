@@ -37,7 +37,8 @@
 
 <div style="text-align: justify">First I build a novel nomenclature for RSV using phylogenetic approach. Then the sequences with assiged genotype were used a a trainging data to develop a software to perform automatic genotype classification. Support Vector Machine (SVM) model and machine learning algorithms were used.</div>
 <br>
-<center><img src="images/fb-food-trends.png"></center>
+<img width="1605" alt="genotype" src="https://user-images.githubusercontent.com/47227610/126856473-8de7aedb-46a3-413d-92b4-448ddd37d0a2.png">
+
 <br>
 
 ---
@@ -47,29 +48,27 @@
 
 <div style="text-align: justify">The goal of this project to tract the source of SARS-CoV2, phylogenetic and network approach are used.</div>
 <br>
-<center><img src="images/detect-spam-nlp.png"/></center>
+<img width="400" alt="origin of SARS" src="https://user-images.githubusercontent.com/47227610/126856259-8775b75b-1bb0-45ff-9555-5fb77360d9e5.png">
+
 <br>
 
 ---
 ### Avian influnza in Atlanta flyway: Bayesian phylogenography analysis
 
-<div style="text-align: justify"> Discrete trait analysis and Markov jumps and rewards analyis in BEAST
-<center><img src="images/detect-spam-nlp.png"/></center>
+<div style="text-align: justify"> Discrete trait analysis and Markov jumps and rewards analyis in BEAST.</div>
+<br>
+<img width="900" alt="ATL_flyway" src="https://user-images.githubusercontent.com/47227610/126856449-a5471642-2963-4c56-97f9-28b4aa3cf07e.png">
 <br>
 
----
-### APP: Perdict the geo-location information of SARS-CoV2 using genetic information : NLP and Naive Bayes Classifier
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
+---
+###  APP: Perdict the geo-location information of SARS-CoV2 using genetic information : NLP and Naive Bayes Classifier
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/JianiC/INFO8000/blob/master/term_project/Machine_learning/CoV-country.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JianiC/INFO8000)
 
 <div style="text-align: justify">In order to the isolate location of the sequences with missing information, first I vectorized RNA sequences into a format that machine learning algorithms can understand using sklearn.feature_extraction.text. Then I trained a machine learning model to learn to isolated country between RNA sequences. Finally, with the trained model, the sequences with missing geo information can be perdicted with an accuracy of 93%.</div>
-<br>
-<center><img src="images/detect-spam-nlp.png"/></center>
-<br>
 
----
-usetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
 
 ---
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
