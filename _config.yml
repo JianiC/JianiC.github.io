@@ -1,11 +1,18 @@
-title: John Doe # your name (or website title) here
+title: Jiani Chen # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/jiani-chen-9a8031149
+">LinkedIn</a> |
+  </p>
   
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  <p align="justify">
+  I am pursing ph.D degree in Bioinformatics at University of Georgia.
+  <br><br>
+  I currently focus on infectious disease caused by RNA virus using phylodynamics and statistics modeling approach.
+  I have experience with NGS and other type of medical claims data. Not only a programmer or modeler but a person try to solve all problems in my life.
+  <br><br>
+  Before starting my phd, I earned master's degree at Pharmacology and Toxicology at the University of Kansas and Medical degree ( Bachelor's) at Guilin Medical University in China.
+  <br><br>
+  </p>
