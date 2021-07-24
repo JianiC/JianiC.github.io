@@ -37,7 +37,7 @@
 
 <div style="text-align: justify">First I build a novel nomenclature for RSV using phylogenetic approach. Then the sequences with assiged genotype were used a a trainging data to develop a software to perform automatic genotype classification. Support Vector Machine (SVM) model and machine learning algorithms were used.</div>
 <br>
-<img width="1605" alt="genotype" src="https://user-images.githubusercontent.com/47227610/126856473-8de7aedb-46a3-413d-92b4-448ddd37d0a2.png">
+<img width="700" alt="genotype" src="https://user-images.githubusercontent.com/47227610/126856473-8de7aedb-46a3-413d-92b4-448ddd37d0a2.png">
 
 <br>
 
@@ -57,7 +57,8 @@
 
 <div style="text-align: justify"> Discrete trait analysis and Markov jumps and rewards analyis in BEAST.</div>
 <br>
-<img width="900" alt="ATL_flyway" src="https://user-images.githubusercontent.com/47227610/126856449-a5471642-2963-4c56-97f9-28b4aa3cf07e.png">
+<img width="900" alt="Screen Shot 2021-07-23 at 11 48 28 PM" src="https://user-images.githubusercontent.com/47227610/126856488-b26940d1-3578-4007-888e-508b839e724b.png">
+
 <br>
 
 
