@@ -48,7 +48,7 @@
 
 <div style="text-align: justify">The goal of this project to tract the source of SARS-CoV2, phylogenetic and network approach are used.</div>
 <br>
-<img width="400" alt="origin of SARS" src="https://user-images.githubusercontent.com/47227610/126856259-8775b75b-1bb0-45ff-9555-5fb77360d9e5.png">
+<img width="300" alt="origin of SARS" src="https://user-images.githubusercontent.com/47227610/126856259-8775b75b-1bb0-45ff-9555-5fb77360d9e5.png">
 
 <br>
 
