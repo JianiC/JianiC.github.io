@@ -14,6 +14,7 @@
 **T-cell epitope diversity visulization and comparasion:** I develop a approach to get T-cell epitope profile clustering based on MDS and wrap it into a toolbox via snakemake. ([GitHub]
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
 
+<img width="600" alt="T_epi_mds" src="https://user-images.githubusercontent.com/47227610/126853647-30d309dc-6d6b-43ec-9661-c9f9117aba81.png">
 
 
 ---
@@ -23,7 +24,10 @@
 
 <div style="text-align: justify">This is a infectious disease modeling study which incoperate Markov process and optimization algorithms. I aim to test whether the inhibition of co-infection happens during the infectious process ( inhibit the pathogen to enter to the cell) or caused by cross-protective immunity.</div>
 
-<center><img src="images/BERT-classification.png"/></center>
+<img width="800" alt="pomp_model_simulate" src="https://user-images.githubusercontent.com/47227610/126854327-e233c9d9-d264-4da8-bbe0-67bd675d879b.png">
+<img width="800" alt="pomp_modelfit" src="https://user-images.githubusercontent.com/47227610/126854333-22ab63fe-6306-440f-8568-c0c99a54e7ff.png">
+
+
 
 ---
 ### A novel nomenclature system for RSV genotyping
