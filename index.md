@@ -47,6 +47,13 @@
 <br>
 
 ---
+### Avian influnza in Atlanta flyway: Bayesian phylogenography analysis
+
+<div style="text-align: justify"> Discrete trait analysis and Markov jumps and rewards analyis in BEAST
+<center><img src="images/detect-spam-nlp.png"/></center>
+<br>
+
+---
 ### APP: Perdict the geo-location information of SARS-CoV2 using genetic information : NLP and Naive Bayes Classifier
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
