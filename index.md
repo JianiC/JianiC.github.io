@@ -37,7 +37,7 @@
 <br>
 
 ---
-## Other projects I am contributing
+## Other projects I have contributed to
 
 ### Origin of SARS-CoV19: phylogentic and contact network analysis
 
