@@ -12,7 +12,7 @@
 
 
 **T-cell epitope diversity visulization and comparasion:** I develop a approach to get T-cell epitope profile clustering based on MDS and wrap it into a toolbox via snakemake. ([GitHub]
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/JianiC/RSV_Epitope/tree/master/MDS)
 
 <img width="600" alt="T_epi_mds" src="https://user-images.githubusercontent.com/47227610/126853647-30d309dc-6d6b-43ec-9661-c9f9117aba81.png">
 
@@ -20,7 +20,8 @@
 ---
 ### Modeling the interaction of RSV and influenza cocirculation
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JianiC/RSV_flu)
 
 <div style="text-align: justify">This is a infectious disease modeling study which incoperate Markov process and optimization algorithms. I aim to test whether the inhibition of co-infection happens during the infectious process ( inhibit the pathogen to enter to the cell) or caused by cross-protective immunity.</div>
 
@@ -33,7 +34,7 @@
 ### A novel nomenclature system for RSV genotyping
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JianiC/rsv-genotype)
 
 <div style="text-align: justify">First I build a novel nomenclature for RSV using phylogenetic approach. Then the sequences with assiged genotype were used a a trainging data to develop a software to perform automatic genotype classification. Support Vector Machine (SVM) model and machine learning algorithms were used.</div>
 <br>
@@ -45,7 +46,7 @@
 ## Other projects I have contributed to
 
 ### Origin of SARS-CoV19: phylogentic and contact network analysis
-
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JianiC/betaCoV/blob/master/Ancestral/find_dominant_groups%20.R)
 <div style="text-align: justify">The goal of this project to tract the source of SARS-CoV2, phylogenetic and network approach are used.</div>
 <br>
 <img width="300" alt="origin of SARS" src="https://user-images.githubusercontent.com/47227610/126856259-8775b75b-1bb0-45ff-9555-5fb77360d9e5.png">
@@ -54,7 +55,7 @@
 
 ---
 ### Avian influnza in Atlanta flyway: Bayesian phylogenography analysis
-
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JianiC/ATL-flyway)
 <div style="text-align: justify"> Discrete trait analysis and Markov jumps and rewards analyis in BEAST.</div>
 <br>
 <img width="900" alt="Screen Shot 2021-07-23 at 11 48 28 PM" src="https://user-images.githubusercontent.com/47227610/126856488-b26940d1-3578-4007-888e-508b839e724b.png">
